@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+* {
+    box-sizing: border-box;
+}
+html {
+    height:100%;
+}
+
+body {
+    min-height:100%;
+}
+body,
+ul,
+li,
+h1,h2,h3,h4,p {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style-type: none;
+}
+
+body {
+    font-family: 'Roboto';
+}
+
+a {
+    text-decoration: none;
+    line-height: 2.5;
+
+}
+a:link {
+    color:white;
+}
+h4,p {
+    text-align:center;
+    font-size:1em;
+}
+
+nav {
+    display: flex;
+    background: #FFFFFF;
+}
+
+
+.main-nav {
+    flex: 1;
+    display: flex;
+    color: black;
+}
+
+.logo img {
+    padding: 0.5em;
+}
+
+.main-nav ul {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.main-nav ul li {
+    padding: 15px;
+}
+
+.main-nav ul li:hover {
+    color: #97D700;
+}
+
+.banner {
+    background-image: url("http://cdn.shopify.com/s/files/1/3102/2108/files/MODELPIC18_1800x.jpg?v=1521838460");
+    /* The image used */
+    background-color: #cccccc;
+    /* Used if the image is unavailable */
+    height: 500px;
+    /* You must set a specified height */
+    background-position: center;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-size: cover;
+    /* Resize the background image to cover the entire container */
+}
+
+
+
+main {
+    margin-top: 50px;
+}
+
+main h4, main p {
+    line-height: 3;
+}
+.product-list {
+    display:flex;
+    color:black;
+}
+.product-image {
+    width:100%;
+}
+
+.product-item {
+    margin:10px;
+    flex-basis:calc(25% - 20px);
+    color:#97d700;
+}
+
+.instagram-container h1 {
+    text-align:center;
+    color:black;
+    font-size:1.5em;
+    /* font-style: italic; */
+    font-weight: normal;
+    margin: 20px;
+}
+.instagram-gallery {
+    display:flex;
+    height: 16.666vw;
+}
+
+.instagram-gallery .image-item {
+    margin-bottom:0;
+    flex-basis:16.6666%;
+    background: aqua;
+}
+
+.instagram-gallery .image-item img {
+    /* width:90%; */
+    background-image:url('https://instagram.fcgy1-1.fna.fbcdn.net/vp/6ae0ca9ea70abdd8d766102cfecbb5ad/5C442719/t51.2885-15/sh0.08/e35/p750x750/41454586_1380895572043925_3022714732209442450_n.jpg');
+	height: 100%;
+    display:block;
+    
+    background-size: cover;
+}
+
+img {
+    transition: transform .5s
+}
+
+img:hover {
+    transform: scale(1.025);
+}
+
+footer {
+    /* margin-top: 20px; */
+    background: #97D700;
+    height:400px;
+    display:flex;
+    color:white;
+}
+footer .col {
+    flex:1;
+    display:flex;
+    flex-direction: column;
+    text-align: left;
+    padding:0 70px;
+}
+
+footer p {
+    text-align:left;
+    font-size:1em;
+}
+
+
+footer form {
+    margin-top: 10px;
+    display:flex;
+    flex-direction: column;
+}
+
+footer input {
+    height: 30px;
+}
+
+footer button {
+    margin-top: 5px;
+    padding:10px;
+    border:2px solid black;
+    background: white;
+}

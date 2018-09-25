@@ -1,0 +1,79 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial;
+    background: #396afc;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2948ff, #396afc);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2948ff, #396afc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color:white;
+}
+
+body,
+h1,
+h2,
+h3,
+p {
+    margin: 0;
+}
+
+header {
+    text-align: center;
+}
+
+.container {
+    /* background: red; */
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: center;
+    /* min-height:100vh; */
+    height: 100vh;
+
+}
+
+.container h1 {
+    margin-bottom: 200px;
+    font-size: 4em;
+    /* color: black; */
+    /* background: aqua; */
+    text-align: center;
+}
+
+.event-types {
+    display: flex;
+    justify-content: space-around;
+}
+
+.event {
+    flex-basis: 30%;
+    /* background: black; */
+    background: white;
+    /* flex:1; */
+    color:black;
+    font-size: 1em;
+    text-align: center;
+    /* padding:75px; */
+    border: 1px solid black;
+    border-radius: 5px;
+    transition: transform 0.5s;
+
+}
+
+.event:hover {
+    transform: scale(1.1);
+}
+
+.event h2 {
+    background: #18ff92;
+    color: black
+}
+
+.event p {
+    font-size: 4em;
+}
+
+/* .event-key { background:#1abc9c;}
+.event-which { background:#3498db;}
+.event-code { background:#9b59b6;} */
