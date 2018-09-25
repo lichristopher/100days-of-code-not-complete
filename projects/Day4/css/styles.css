@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+* {
+    box-sizing: border-box;
+}
+
+
+body,h1,p {
+    margin:0;
+}
+
+body {
+    font-family: 'Roboto';
+
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 10px;
+    color:black;
+    font-size:1.5em;
+}
+
+.button-functions{
+    text-align: center;
+}
+
+.button-functions button{
+    border:none;
+    padding:5px;
+    background: #18ff92;
+    /* border:1px solid white; */
+    border:1px solid black;
+    outline:0;
+    border-radius:5px;
+}
+
+
+.container {
+    min-height:100vh;
+    display: flex;
+    flex-direction: column;
+    padding:30px;
+}
+
+.row {
+    /* flex:1; */
+    /* background: red; */
+    display:flex;
+    justify-content: center;
+    margin-bottom:8px;
+}
+
+.row.color-palette,.row.header {
+    margin-bottom: 60px;
+    /* margin-top: 10px; */
+    /* justify-content: flex-end; */
+    /* flex-direction: column; */
+}
+/* .row.header {
+    margin-top: 30px;
+} */
+
+.button-functions {
+    margin:10px 0;
+}
+.row.header {
+    padding-right:70px;
+    /* background: red; */
+    /* background: red;
+    width:300px; */
+}
+.row:nth-of-type(odd) {
+/* background: #18ff92; */
+}
+
+.row:nth-of-type(even) {
+/* background: #0bb4e3; */
+}
+
+.row .col {
+    /* flex:1; */
+    width:80px;
+    height:80px;
+    margin-left: 20px;
+    border:5px solid black;
+}
+
+/* .col1 {
+    background: green;
+}
+
+.col2 {
+    background: lime;
+}
+
+.col3 {
+    background: orange;
+} */
