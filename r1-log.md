@@ -37,3 +37,21 @@ I learned how to fit images inside divs.
 **What I Learned:** Learned how to use of the window object's event on keydown and use the events return values to display the keycodes
 **Resources Used:**
 **Link to Work:**
+
+### R1D1: September 25, 2018
+
+**Today's Progress**: Built Paint the box App
+
+**What I Learned:** 
+**Resources Used:**
+**Link to Work:**
+
+
+### R1D1: September 26, 2018
+
+**Today's Progress**: Started FreeCodeCamp to build a stronger foundation of html,css,js skills to improve my websites
+
+**What I Learned:** Learned the 'required' attribute on the input type element and the checked attribute on the checkbox and radio button
+and how to group them
+**Resources Used:**
+**Link to Work:**
