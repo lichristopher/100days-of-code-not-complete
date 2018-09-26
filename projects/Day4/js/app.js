@@ -72,4 +72,3 @@ generateNewColorsButton.addEventListener('click', function() {
 });
 
 attachColor();
-// Why Cant I use alert directly on an event Listener
