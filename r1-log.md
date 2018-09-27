@@ -52,6 +52,15 @@ I learned how to fit images inside divs.
 **Today's Progress**: Started FreeCodeCamp to build a stronger foundation of html,css,js skills to improve my websites
 
 **What I Learned:** Learned the 'required' attribute on the input type element and the checked attribute on the checkbox and radio button
-and how to group them
+and how to group them.
+
+Learned more about margins, the box is squeesh when margins are too much
+
+Img when changed display to block doesnt fill the the whole row it just occupy the space it needs
+
+When using position:absolute it regards the margins
+
+
+Learned how to use CSS keyframes 
 **Resources Used:**
 **Link to Work:**
