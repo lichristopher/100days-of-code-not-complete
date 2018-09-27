@@ -1,0 +1,80 @@
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+* {
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+
+body {
+    font-family:'Roboto';
+}
+
+.widget {
+    margin:50px auto;
+    width:300px;
+    /* background: aqua; */
+    box-shadow: 1px 1px 5px #333;
+    height:400px;
+    display:flex;
+    flex-direction: column;
+}
+
+
+.widget-header {
+    height:70%;
+    /* background: gray; */
+    display:flex;
+    flex-direction: column;
+}
+
+.widget-headline {
+    
+    text-align: center;
+    margin-top: 70px;
+    /* border-bottom: 5px solid black; */
+}
+.widget-control {
+    /* background: red; */
+    display:flex;
+    flex-direction: row;
+    font-size:4em;
+    /* line-height: 0; */
+    justify-content: space-around;
+    flex:1;
+    align-items: center;
+}
+
+.widget-control .plus {
+    background: #2699D0;
+    /* flex:1; */
+    width:60px;
+    height:60px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border-radius:50%;
+}
+
+.widget-control .minus {
+    background: #E66F55;
+    /* flex:1; */
+    width:60px;
+    height:60px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border-radius:50%;
+}
+
+.widget-body {
+    height:30%;
+    background: #F8F8FF;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.widget-body .microphone {
+    font-size:4em;
+}
