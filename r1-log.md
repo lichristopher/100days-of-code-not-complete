@@ -62,5 +62,11 @@ When using position:absolute it regards the margins
 
 
 Learned how to use CSS keyframes 
-**Resources Used:**
-**Link to Work:**
+
+### R1D1: September 26, 2018
+
+**Today's Progress**: 
+
+**What I Learned:**  
+using tabindex also enables the CSS pseudo-class :focus to work on the p tag.
+Learned Bootstrap 4 basics
