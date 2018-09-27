@@ -63,7 +63,7 @@ When using position:absolute it regards the margins
 
 Learned how to use CSS keyframes 
 
-### R1D1: September 26, 2018
+### R1D1: September 27, 2018
 
 **Today's Progress**: 
 
