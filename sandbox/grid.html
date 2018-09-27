@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            grid-template-rows: 1fr 1fr 1fr 1fr;
+            grid-template-areas:
+                "title title"
+                "header header"
+                "sidebar content"
+                "footer footer";
+        }
+
+        .title {
+            grid-area: title;
+        }
+
+        .header {
+            grid-area: header;
+        }
+
+        .sidebar {
+            grid-area: sidebar;
+        }
+
+        .content {
+            grid-area: content;
+        }
+
+        .footer {
+            grid-area: footer;
+        }
+
+
+
+        .grid div:nth-of-type(even) {
+            background-color: red;
+        }
+
+        .grid div:nth-of-type(odd) {
+            background-color: green;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="grid">
+        <div class="title">Title</div>
+        <div class="header">Header</div>
+        <div class="sidebar">Sidebar</div>
+        <div class="content">Content</div>
+        <div class="footer">footer</div>
+    </div>
+</body>
+
+</html>
