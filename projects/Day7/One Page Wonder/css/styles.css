@@ -19,7 +19,7 @@ header {
 }
 
 button {
-    width: 20%;
+    /* width: 20%; */
     border-radius: 100px !important;
     background-color: #ee0979;
     transition: background-color 0.5s;
