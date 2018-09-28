@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.navbar {
+    background-color: rgba(0, 0, 0, .7);
+}
+
+header {
+    background: linear-gradient(0deg, #ff6a00 0, #ee0979 100%);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+    background-size: cover;
+    height: 700px;
+}
+
+button {
+    width: 20%;
+    border-radius: 100px !important;
+    background-color: #ee0979;
+    transition: background-color 0.5s;
+}
+
+button:hover {
+    background-color: #BD0760;
+}
