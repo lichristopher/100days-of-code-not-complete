@@ -70,3 +70,20 @@ Learned how to use CSS keyframes
 **What I Learned:**  
 using tabindex also enables the CSS pseudo-class :focus to work on the p tag.
 Learned Bootstrap 4 basics
+
+### R1D1: September 28, 2018
+
+**Today's Progress**: Cloned a bootstrap theme.
+
+**What I Learned:**:Understand how to use the bootstrap grid system. Learned to use the bootstrap utilities
+
+### R1D1: September 29, 2018
+
+**Today's Progress**: 
+
+**What I Learned:**  
+Image heavy websites convert better
+
+Don't make big headers bold/strong
+
+When adding border on hover, Put a transparent border on the normal state so it won't move anything
