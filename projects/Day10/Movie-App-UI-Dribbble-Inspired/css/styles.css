@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #141A32;
+    color: white;
+    font-family: 'Roboto', serif;
+}
+
+.container {
+    max-width: 800px;
+    /* background: red; */
+    margin: 0 auto;
+    /* border: 5px solid white; */
+    border-radius: 8px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+}
+
+header .search-box {
+    flex: 1;
+    margin-left: 30px;
+    border: 0;
+    outline: none;
+    text-align: center;
+    background: #080F28;
+    color: white;
+    caret-color: white;
+}
+
+::placeholder {
+    color: white;
+}
+
+.movie-container {
+    margin-top: 3rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    justify-content: space-between;
+}
+
+.movie-item {
+    background-color: #1E2747;
+    width: 70%;
+    /* margin: 0 auto; */
+    display: flex;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 60px;
+    position: relative;
+    flex: 0 0 48%;
+    /* margin-left: 2%; */
+
+}
+
+.movie-item img {
+    width: 200px;
+    /* display: block; */
+    /* position: relative; */
+    border-radius: 5%;
+    margin-top: -40px;
+}
+
+.movie-details {
+    margin-left: 5%;
+    font-size: 16px;
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+    text-align: center;
+    /* background: red; */
+}
+
+
+.checked {
+    color: gold;
+}
+
+.fa-crown {
+    font-size: 200px;
+
+}
+
+.movie-number {
+    width: 40px;
+    height: 40px;
+    background: #0094FF;
+    position: absolute;
+    right: 10px;
+    top: -20px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* vertical-align: middle; */
+}
+
+
+@media (max-width:800px) {
+    .movie-item {
+        flex-direction: column;
+        flex: 0 0 100%;
+    }
+
+    .movie-poster {}
+
+    .movie-poster img {
+        /* margin: 0 auto; */
+    }
+}
+
+
+@media (max-width:1000px) {
+    .movie-container {
+        justify-content: center;
+    }
+
+    .movie-item {
+        text-align: center;
+        flex-direction: column;
+        flex: 0 0 75%;
+    }
