@@ -97,10 +97,6 @@
     </div>
     <script>
         const movieTitles = document.querySelectorAll('.movie-title');
-        // // Only allow alphanumberics characters
-        // movieTitles.forEach(movie => {
-        //     movie.textContent.replace(/[^a-z0-9]/gi, '');
-        // })
         const input = document.querySelector('input');
         input.addEventListener('keyup', function (e) {
             movieTitles.forEach(movie => {
