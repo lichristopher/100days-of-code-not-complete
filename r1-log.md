@@ -87,3 +87,10 @@ Image heavy websites convert better
 Don't make big headers bold/strong
 
 When adding border on hover, Put a transparent border on the normal state so it won't move anything
+
+
+### R1D1: October 2, 2018
+
+**Today's Progress**: Learned JS Basics again to fill in the gaps of my knowledge
+
+**What I Learned:**  
