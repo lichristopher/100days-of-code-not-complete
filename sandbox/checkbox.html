@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        label {
+         display:block
+        }
+
+        form {
+            border:2px solid black;
+            padding:20px;
+        }
+    </style>
+</head>
+
+<body>
+    <form action="">
+
+
+        <label><input type="checkbox" name="all" value="2000"> Main Conference — $2000</label>
+        <label><input type="checkbox" name="js-frameworks" value="300"> JavaScript Frameworks Workshop — Tuesday
+            9am-12pm, $300</label>
+        <label><input type="checkbox" name="js-libs" value="150"> JavaScript Libraries Workshop — Tuesday 1pm-4pm, $150</label>
+        <label class=""><input type="checkbox" name="express" value="100"> Express Workshop — Tuesday 9am-12pm, $100</label>
+        <label class=""><input type="checkbox" name="node" value="100"> Node.js Workshop — Tuesday 1pm-4pm, $100</label>
+        <label><input type="checkbox" name="build-tools" value="100"> Build tools Workshop — Wednesday 9am-12pm, $100</label>
+        <label><input type="checkbox" name="npm" value="500"> npm Workshop — Wednesday 1pm-4pm, $500</label>
+
+        <div>Total: $<span id="total">0</span></div>
+    </form>
+
+    <script>
+        const form = document.querySelector('form');
+        const totalElement = document.querySelector("#total");
+        let totalAmount = 0;
+        form.addEventListener("change", function (e) {
+            if (e.target.tagName === "INPUT" && e.target.checked) {
+                totalAmount += Number(e.target.value);
+            } else if (e.target.tagName === "INPUT" && !e.target.checked) {
+                totalAmount -= Number(e.target.value);
+            }
+            totalElement.textContent = totalAmount;
+        })
+    </script>
+</body>
+
+</html>

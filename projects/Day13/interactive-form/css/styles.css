@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #ACCBD9;
+    font-family: 'Raleway', sans-serif;
+}
+
+header {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.form-container {
+    width: 800px;
+    background: #85B5CA;
+    margin: 0 auto;
+    color: white;
+    text-align: center;
+    padding: 20px 50px;
+}
+
+
+.basic-info {
+    padding-bottom: 50px;
+    border-bottom: 2px solid #679CB3;
+}
+
+label,
+input {
+    display: block;
+    margin-bottom: 10px;
+}
+
+
+input,
+select {
+    font-size: 1.25em;
+    width: 100%;
+    padding: 5px 10px;
+}
+
+.tshirt-info {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.register-section {
+    text-align: left;
+    margin-top: 60px;
+}
+
+.register-section label {
+    font-size: 1.2em;
+}
+
+.register-section input[type=checkbox],
+.register-section label {
+    display: inline-block;
+    width: auto;
+}
+
+
+button {
+    background-color: #0073EF;
+    outline: none;
+    border: 0;
+    padding: 10px;
+    border-radius: 4px;
+    color: white;
+}
