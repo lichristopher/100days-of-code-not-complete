@@ -100,3 +100,19 @@ When adding border on hover, Put a transparent border on the normal state so it 
 **Today's Progress**: Learned Scopes and Closures Javascript
 
 **What I Learned:**  
+
+
+
+### R1D1: October 4, 2018
+
+**Today's Progress**:  Solve problems on codewars.com
+**What I Learned:**  
+**Links to problems solved**
+http://www.codewars.com/kata/546f922b54af40e1e90001da/solutions/javascript
+https://www.codewars.com/kata/555eded1ad94b00403000071/solutions/javascript
+https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/solutions/javascript
+https://www.codewars.com/kata/5715eaedb436cf5606000381/solutions/javascript
+
+
+
+To finish https://www.codewars.com/kata/are-they-the-same/train/javascript
