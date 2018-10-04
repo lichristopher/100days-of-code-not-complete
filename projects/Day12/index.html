@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Background Gradient Generator</title>
+    <style>
+        body {
+        font-family: Arial;
+        /*   margin:0; */
+        text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Background Generator</h1>
+    <h2 id="gradientValue">Gradient Value</h2>
+    <div class="gradient-container">
+        <input type="color" id="leftGradient">
+        <input type="color" id="rightGradient">
+    </div>
+
+
+    <script>
+        const leftGradient = document.getElementById("leftGradient");
+        const rightGradient = document.getElementById("rightGradient");
+        const body = document.querySelector('body')
+        const h2 = document.querySelector('h2');
+
+        function changeBackgroundColor() {
+            body.style.background =
+                `linear-gradient(to right, ${leftGradient.value} , ${rightGradient.value})`;
+            // h2.textContent = leftGradient.value + " " + rightGradient.value
+            h2.textContent = body.style.background;
+
+        }
+        leftGradient.addEventListener('input', changeBackgroundColor);
+
+        rightGradient.addEventListener('input', changeBackgroundColor);
+    </script>
+</body>
+
+</html>
