@@ -116,3 +116,15 @@ https://www.codewars.com/kata/5715eaedb436cf5606000381/solutions/javascript
 
 
 To finish https://www.codewars.com/kata/are-they-the-same/train/javascript
+https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8/train/javascript
+https://www.codewars.com/kata/vasya-clerk/train/javascript
+### R1D1: October 5, 2018
+
+**Today's Progress**:  Solve problems on codewars.com
+**What I Learned:**  
+**Links to problems solved**
+https://www.codewars.com/kata/57a2013acf1fa5bfc4000921/solutions/javascript
+https://www.codewars.com/kata/563cf89eb4747c5fb100001b/solutions/javascript
+https://www.codewars.com/kata/55fd2d567d94ac3bc9000064/solutions/javascript
+https://www.codewars.com/kata/5842df8ccbd22792a4000245/solutions/javascript
+https://www.codewars.com/kata/559590633066759614000063/solutions/javascript
