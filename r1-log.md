@@ -4,8 +4,6 @@ The log of my #100DaysOfCode challenge. Started on [September 22, Saturday, 2018
 
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
 
 ### R1D1: September 22, 2018
 
@@ -19,7 +17,7 @@ https://stackoverflow.com/questions/492809/when-to-use-img-vs-css-background-ima
 
 **Link to Work:**
 
-### R1D1: September 23, 2018
+### R1D2: September 23, 2018
 
 **Today's Progress**: Madrinas Coffee Clone
 
@@ -30,7 +28,7 @@ I learned how to fit images inside divs.
 **Link to Work:**
 
 
-### R1D1: September 24, 2018
+### R1D3: September 24, 2018
 
 **Today's Progress**: Javascript Keycode Displayer
 
@@ -38,7 +36,7 @@ I learned how to fit images inside divs.
 **Resources Used:**
 **Link to Work:**
 
-### R1D1: September 25, 2018
+### R1D4: September 25, 2018
 
 **Today's Progress**: Built Paint the box App
 
@@ -47,7 +45,7 @@ I learned how to fit images inside divs.
 **Link to Work:**
 
 
-### R1D1: September 26, 2018
+### R1D5: September 26, 2018
 
 **Today's Progress**: Started FreeCodeCamp to build a stronger foundation of html,css,js skills to improve my websites
 
@@ -63,7 +61,7 @@ When using position:absolute it regards the margins
 
 Learned how to use CSS keyframes 
 
-### R1D1: September 27, 2018
+### R1D6: September 27, 2018
 
 **Today's Progress**: 
 
@@ -71,13 +69,13 @@ Learned how to use CSS keyframes
 using tabindex also enables the CSS pseudo-class :focus to work on the p tag.
 Learned Bootstrap 4 basics
 
-### R1D1: September 28, 2018
+### R1D7: September 28, 2018
 
 **Today's Progress**: Cloned a bootstrap theme.
 
 **What I Learned:**:Understand how to use the bootstrap grid system. Learned to use the bootstrap utilities
 
-### R1D1: September 29, 2018
+### R1D8: September 29, 2018
 
 **Today's Progress**: 
 
@@ -89,13 +87,13 @@ Don't make big headers bold/strong
 When adding border on hover, Put a transparent border on the normal state so it won't move anything
 
 
-### R1D1: October 2, 2018
+### R1D11: October 2, 2018
 
 **Today's Progress**: Learned JS Basics again to fill in the gaps of my knowledge
 
 **What I Learned:**  
 
-### R1D1: October 3, 2018
+### R1D12: October 3, 2018
 
 **Today's Progress**: Learned Scopes and Closures Javascript
 
@@ -103,7 +101,7 @@ When adding border on hover, Put a transparent border on the normal state so it 
 
 
 
-### R1D1: October 4, 2018
+### R1D13: October 4, 2018
 
 **Today's Progress**:  Solve problems on codewars.com
 **What I Learned:**  
@@ -118,7 +116,7 @@ https://www.codewars.com/kata/5715eaedb436cf5606000381/solutions/javascript
 To finish https://www.codewars.com/kata/are-they-the-same/train/javascript
 https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8/train/javascript
 https://www.codewars.com/kata/vasya-clerk/train/javascript
-### R1D1: October 5, 2018
+### R1D14: October 5, 2018
 
 **Today's Progress**:  Solve problems on codewars.com
 **What I Learned:**  
@@ -128,3 +126,8 @@ https://www.codewars.com/kata/563cf89eb4747c5fb100001b/solutions/javascript
 https://www.codewars.com/kata/55fd2d567d94ac3bc9000064/solutions/javascript
 https://www.codewars.com/kata/5842df8ccbd22792a4000245/solutions/javascript
 https://www.codewars.com/kata/559590633066759614000063/solutions/javascript
+
+### R1D14: October 5, 2018
+
+**Today's Progress**:  Learned Javascript Promises have not fully grasped the advanced concepts but
+I got the basics. Also learned Axios library
