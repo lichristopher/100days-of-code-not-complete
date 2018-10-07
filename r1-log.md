@@ -127,7 +127,16 @@ https://www.codewars.com/kata/55fd2d567d94ac3bc9000064/solutions/javascript
 https://www.codewars.com/kata/5842df8ccbd22792a4000245/solutions/javascript
 https://www.codewars.com/kata/559590633066759614000063/solutions/javascript
 
-### R1D14: October 5, 2018
+### R1D15: October 6, 2018
 
 **Today's Progress**:  Learned Javascript Promises have not fully grasped the advanced concepts but
 I got the basics. Also learned Axios library
+
+### R1D16: October 7, 2018
+
+**Today's Progress**:
+1.Finished CodeSmith Precourse
+2.Made a movie searching app using OMDB Api
+Completed this codewars challenges
+https://www.codewars.com/kata/54e6533c92449cc251001667/solutions/javascript
+https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/solutions/javascript
