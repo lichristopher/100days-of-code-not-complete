@@ -140,3 +140,12 @@ I got the basics. Also learned Axios library
 Completed this codewars challenges
 https://www.codewars.com/kata/54e6533c92449cc251001667/solutions/javascript
 https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/solutions/javascript
+
+### R1D16: October 8, 2018
+
+**Today's Progress**:
+1.Made a movie searching app using OMDB Api and I used Bulma framework for the UI
+Used the Fetch API for requesting data
+
+Learned Today
+2.Need to put width height on img so when the page loads so it has a placeholder space waiting for it
