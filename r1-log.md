@@ -149,3 +149,8 @@ Used the Fetch API for requesting data
 
 Learned Today
 2.Need to put width height on img so when the page loads so it has a placeholder space waiting for it
+
+### R1D17: October 8, 2018
+
+**Today's Progress**:
+Learned Destructuring in Javascript
