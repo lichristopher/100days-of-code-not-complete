@@ -150,7 +150,12 @@ Used the Fetch API for requesting data
 Learned Today
 2.Need to put width height on img so when the page loads so it has a placeholder space waiting for it
 
-### R1D17: October 8, 2018
+### R1D17: October 9, 2018
 
 **Today's Progress**:
 Learned Destructuring in Javascript
+
+### R1D18: October 10, 2018
+
+**Today's Progress**:
+Learned how to use the "new keyword" in javascript and also found out the when you use setTimeout on a function that uses "this" it will refer to the global or window object. So you have to use bind,call,apply
