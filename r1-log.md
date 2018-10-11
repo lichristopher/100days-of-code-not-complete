@@ -159,3 +159,8 @@ Learned Destructuring in Javascript
 
 **Today's Progress**:
 Learned how to use the "new keyword" in javascript and also found out the when you use setTimeout on a function that uses "this" it will refer to the global or window object. So you have to use bind,call,apply
+
+### R1D19: October 11, 2018
+
+**Today's Progress**:
+Watched Tyler Mcginnis' videos about Prototypes and Execution context
