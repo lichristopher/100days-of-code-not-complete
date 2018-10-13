@@ -164,3 +164,17 @@ Learned how to use the "new keyword" in javascript and also found out the when y
 
 **Today's Progress**:
 Watched Tyler Mcginnis' videos about Prototypes and Execution context
+
+
+### R1D20: October 12, 2018
+
+**Today's Progress**:
+
+
+
+### R1D21: October 13, 2018
+
+**Today's Progress**:
+Made a quiz app using https://opentdb.com API
+Learned to use the Audio Object to play sounds
+
