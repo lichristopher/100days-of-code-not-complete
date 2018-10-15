@@ -178,3 +178,13 @@ Watched Tyler Mcginnis' videos about Prototypes and Execution context
 Made a quiz app using https://opentdb.com API
 Learned to use the Audio Object to play sounds
 
+
+### R1D22: October 13, 2018
+
+
+
+### R1D23: October 15, 2018
+
+**Today's Progress**:
+made a react app
+Learn to use create-react-app
