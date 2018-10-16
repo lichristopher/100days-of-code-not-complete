@@ -188,3 +188,9 @@ Learned to use the Audio Object to play sounds
 **Today's Progress**:
 made a react app
 Learn to use create-react-app
+
+
+### R1D24: October 16, 2018
+
+**Today's Progress**:
+created pomodoro app, still needs work
