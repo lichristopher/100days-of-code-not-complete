@@ -194,3 +194,12 @@ Learn to use create-react-app
 
 **Today's Progress**:
 created pomodoro app, still needs work
+
+
+
+### R1D25: October 16, 2018
+
+**Today's Progress**:
+Finished the pomodoro app
+Made a Random Quote Generator using fetch.
+https://codepen.io/KungFuSucker/full/gBvmJx/
