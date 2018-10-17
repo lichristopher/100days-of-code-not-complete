@@ -179,9 +179,7 @@ Made a quiz app using https://opentdb.com API
 Learned to use the Audio Object to play sounds
 
 
-### R1D22: October 13, 2018
-
-
+### R1D22: October 14, 2018
 
 ### R1D23: October 15, 2018
 
@@ -197,7 +195,7 @@ created pomodoro app, still needs work
 
 
 
-### R1D25: October 16, 2018
+### R1D25: October 17, 2018
 
 **Today's Progress**:
 Finished the pomodoro app
