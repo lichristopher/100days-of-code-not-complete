@@ -201,3 +201,9 @@ created pomodoro app, still needs work
 Finished the pomodoro app
 Made a Random Quote Generator using fetch.
 https://codepen.io/KungFuSucker/full/gBvmJx/
+
+
+### R1D26: October 1, 2018
+
+**Today's Progress**:
+Learned basics of react
