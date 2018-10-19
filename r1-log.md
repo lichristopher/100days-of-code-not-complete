@@ -203,7 +203,13 @@ Made a Random Quote Generator using fetch.
 https://codepen.io/KungFuSucker/full/gBvmJx/
 
 
-### R1D26: October 1, 2018
+### R1D26: October 18, 2018
 
 **Today's Progress**:
 Learned basics of react
+
+### R1D27: October 19, 2018
+
+**Today's Progress**:
+Learned to use parcel
+Learned to use props and state in react. But Im still confused about super(props)
