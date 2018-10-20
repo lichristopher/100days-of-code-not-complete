@@ -213,3 +213,9 @@ Learned basics of react
 **Today's Progress**:
 Learned to use parcel
 Learned to use props and state in react. But Im still confused about super(props)
+
+
+### R1D28: October 20, 2018
+
+**Today's Progress**:
+Learned that arrow function in Javascript has no "this" keyword
