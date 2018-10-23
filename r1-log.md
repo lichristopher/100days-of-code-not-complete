@@ -219,3 +219,10 @@ Learned to use props and state in react. But Im still confused about super(props
 
 **Today's Progress**:
 Learned that arrow function in Javascript has no "this" keyword
+
+### R1D29: October 23, 2018
+
+**Today's Progress**:
+Built A Counter Clicker using React
+Built a random quote generator using react
+built a name filter using React
