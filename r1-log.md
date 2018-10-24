@@ -226,3 +226,10 @@ Learned that arrow function in Javascript has no "this" keyword
 Built A Counter Clicker using React
 Built a random quote generator using react
 built a name filter using React
+
+
+### R1D30: October 24, 2018
+
+**Today's Progress**:
+Build an React app that shows a list of tv shows
+
