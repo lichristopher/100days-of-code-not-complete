@@ -233,3 +233,9 @@ built a name filter using React
 **Today's Progress**:
 Build an React app that shows a list of tv shows
 
+
+### R1D31: October 25, 2018
+
+**Today's Progress**:
+Followed andrew mead's tutorial
+
