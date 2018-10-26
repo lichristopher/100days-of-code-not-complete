@@ -239,3 +239,8 @@ Build an React app that shows a list of tv shows
 **Today's Progress**:
 Followed andrew mead's tutorial
 
+### R1D32: October 26, 2018
+
+**Today's Progress**:
+Made Bitcoin Price Viewer Using react
+
