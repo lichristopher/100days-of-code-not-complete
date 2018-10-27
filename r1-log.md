@@ -244,3 +244,7 @@ Followed andrew mead's tutorial
 **Today's Progress**:
 Made Bitcoin Price Viewer Using react
 
+### R1D33: October 27, 2018
+
+**Today's Progress**:
+Finished Moshs Hamedani Js Basics Object Part
