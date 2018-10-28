@@ -248,3 +248,9 @@ Made Bitcoin Price Viewer Using react
 
 **Today's Progress**:
 Finished Moshs Hamedani Js Basics Object Part
+
+
+### R1D34: October 28, 2018
+
+**Today's Progress**:
+Finished first 10 of the Basics Algorithm Scripting in Freecodecamp
