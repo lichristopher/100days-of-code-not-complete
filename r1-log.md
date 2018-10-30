@@ -254,3 +254,9 @@ Finished Moshs Hamedani Js Basics Object Part
 
 **Today's Progress**:
 Finished first 10 of the Basics Algorithm Scripting in Freecodecamp
+
+
+### R1D35: October 30, 2018
+
+**Today's Progress**:
+Made an Image Searcher using GIPHY api. The design of the web app still needs to be done
