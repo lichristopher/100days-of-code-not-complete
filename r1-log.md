@@ -260,3 +260,8 @@ Finished first 10 of the Basics Algorithm Scripting in Freecodecamp
 
 **Today's Progress**:
 Made an Image Searcher using GIPHY api. The design of the web app still needs to be done
+
+### R1D36: October 3, 2018
+
+**Today's Progress**:
+Learned how to sort an array without including 'The' 'An' 'And' on the first word
